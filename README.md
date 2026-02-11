@@ -3,9 +3,9 @@
 📌 Sobre o Projeto
 
 Sistema de Conta Bancária desenvolvido em Java com execução via console. O projeto simula operações básicas como criação de conta, consulta de saldo, depósitos e saques, utilizando conceitos fundamentais de Programação Orientada a Objetos.
-
-Este projeto foi criado com foco em aprendizado e consolidação dos fundamentos da linguagem Java.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Este projeto foi criado com foco em aprendizado e consolidação dos fundamentos da linguagem Java.
+
 🚀 Funcionalidades
 
 Criar conta bancária
